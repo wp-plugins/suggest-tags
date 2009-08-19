@@ -1,11 +1,11 @@
 <?php 
 /*
 Plugin Name: Suggest Tags
-Plugin URI: http://slaptijack.com/projects/
+Plugin URI: http://slaptijack.com/tag/suggest-tags/
 Description: This plugin uses the <a href="http://tagthe.net">tagthe.net</a> tagging service to generate a list of tag suggestions based on your post's content. The concept for this plugin was originally included in the <a href="http://wordpress.org/extend/plugins/tag-suggest-thing/">Tag Suggest Thing</a> plugin. 
 Version: 1.0.0b1
 Author: Scott Hebert
-Author URI: http://www.heberts.net/
+Author URI: http://www.heberts.net/about/
 */
 
 class SuggestTags {
